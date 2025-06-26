@@ -1,0 +1,4 @@
+{
+  "name": "Library",
+  "scripts": {"Test": "Test-S.luau" ,"Utils": ["Math.luau"]}
+}
