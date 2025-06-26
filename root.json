@@ -1,5 +1,5 @@
 {
   "name": "Library",
-  "scripts": {"Test": "Test-S.luau" ,"Utils": ["Math.luau"]},
+  "scripts": {"Test": "Test-S" ,"Utils": ["Math"]},
   "hidden": "true"
 }
